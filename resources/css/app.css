@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.menu-link {
+    @apply float-right pt-6 text-base font-semibold drop-shadow;
+}
