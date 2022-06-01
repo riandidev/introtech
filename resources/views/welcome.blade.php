@@ -45,4 +45,52 @@
             </div>
         </div>
     </div>
+
+    <div class="w-full h-96 bg-slate-200">
+        <h3 class="text-center font-semibold text-2xl mt-12 pt-4 drop-shadow">JASA DAN LAYANAN</h3>
+        <div class="flex pl-4 mt-6">
+
+            <div class="rounded shadow pt-2 w-1/3">
+                <div class=" bg-indigo-500 rounded">
+                    <h3 class="text-white text-xl text-center mb-2 font-semibold">IT Consultant</h3>
+                    <div class=" bg-indigo-400 rounded pt-2 pl-10 text-slate-800 font-semibold text-lg h-64">
+                        <ul class="list-disc">
+                            <li>Pembuatan dan pengembangan sistem informasi</li>
+                            <li>Pembuatan dan pengembangan website</li>
+                            <li>Installasi jaringan</li>
+                            <li>Pemasangan CCTV</li>
+                            <li>Sistem keamanan</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rounded shadow pt-2 w-1/3 mx-2">
+                <div class=" bg-purple-500 rounded">
+                    <h3 class="text-white text-xl text-center mb-2 font-semibold">Sales</h3>
+                    <div class=" bg-purple-400 rounded pt-2 pl-10 text-slate-800 font-semibold text-lg h-64">
+                        <ul class="list-disc">
+                            <li>Menyediakan laptop bekas bergaransi</li>
+                            <li>Menyediakan sparepart laptop dengan harga terjangkau</li>
+                            <li>Perakitan komputer pc</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rounded shadow pt-2 w-1/3 mx-2">
+                <div class=" bg-pink-500 rounded">
+                    <h3 class="text-white text-xl text-center mb-2 font-semibold">Service</h3>
+                    <div class=" bg-pink-400 rounded pt-2 pl-10 text-slate-800 font-semibold text-lg h-64">
+                        <ul class="list-disc">
+                            <li>Menerima jasa perbaikan laptop</li>
+                            <li>Menerima jasa perbaikan komputer pc</li>
+                            <li>Menerima jasa perbaikan infocus / projector</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
 @endsection
